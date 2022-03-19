@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning machine learning. 
 - 💞️ I’m trying to switch my career in data science field. 
 - 📫 You can reach me by send me an email at jadangpooiling@gmail.com
+- ✍ Sometimes, I write articles related to data science on Medium, and you may check out my Medium profile by clicking <a href="https://medium.com/@jadangpooiling">here</a>.
 
 <!---
 jadanpl/jadanpl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
