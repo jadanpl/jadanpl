@@ -1,6 +1,6 @@
 ## <p align="center">Hi, I’m Pooi Ling, Jada <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" width="35" /></p>
 
-https://user-images.githubusercontent.com/57357735/193459116-6cacb362-06cb-446d-8e5b-32c26060c45e.mp4
+![banner_jadanpl](https://user-images.githubusercontent.com/57357735/193459312-013b1257-4d8a-473b-b447-94eb1194b31d.gif)
 
 
 - 👀 I’m interested in web development and data science.
