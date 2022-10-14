@@ -14,11 +14,11 @@ jadanpl/jadanpl is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3> 🚀 Tools I Have Used and Learned</h3>
+<h2> 🚀 Tools I Have Used and Learned</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="90" height="90"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="90" height="90"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="90" height="90"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="90" height="90"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="flask" width="90" height="90"/>          
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.svg" alt="streamlit" width="180" height="80"/>
 </p>
