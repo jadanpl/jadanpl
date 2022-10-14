@@ -20,5 +20,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="90" height="90"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="90" height="90"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="90" height="90"/>
-  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.svg" alt="streamlit" width="180" height="80"/>
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.svg" alt="streamlit" width="150" height="80"/>
+  <img src="https://user-images.githubusercontent.com/57357735/195898065-5bbeaa4c-26ba-4ca3-986a-34258b054f5c.png" alt="flask" width="120" height="60"/> 
+
 </p>
