@@ -16,5 +16,5 @@ You can click the Preview link to take a look at your changes.
 
 <h2> 🚀 Tools I Have Used and Learned</h2>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
 </p>
